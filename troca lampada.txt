@@ -1,0 +1,5 @@
+1 Pegue uma lampada nova
+2 pegue a lampada estragada com cuidado,gire e a retire.
+3 Coloque a nova lampada 
+4 Verifique se a lampada nova funciona corretamente
+
